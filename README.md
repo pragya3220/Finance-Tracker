@@ -1,5 +1,4 @@
 
-Certainly! Here's a README file content for your Expense Tracker application:
 
 Expense Tracker
 Expense Tracker is a simple Python application built using Tkinter and Matplotlib for tracking and visualizing expenses. It allows users to add, view, and delete expenses, as well as visualize expense data through various charts.
